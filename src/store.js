@@ -8,3 +8,4 @@ const rootReducer = combineReducers(reducers);
 export const configureStore = () => createStore(rootReducer);
 
 
+// finished store setup 
